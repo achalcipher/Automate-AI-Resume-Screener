@@ -101,10 +101,5 @@ streamlit run app.py
 - Export results to various formats
 - Performance analytics and insights
 
-## Author
-
-Achal Cipher
-
-## License
 
 This project is open source and available under the MIT License.
